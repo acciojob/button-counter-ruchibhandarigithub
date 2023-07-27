@@ -11,7 +11,7 @@ const App = () => {
     <div>
         
         <p>Button clicked {count} times</p>
-        <button onClick={handleClick}>Click Me</button>
+        <button onClick={handleClick}>Click</button>
     </div>
   )
 }
